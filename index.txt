@@ -1,6 +1,6 @@
-1:HL["https://wanglt0617.github.io/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
-2:HL["https://wanglt0617.github.io/_next/static/css/bdc3f856dda70850.css",{"as":"style"}]
-0:["y6oeF1fcHtYsOhIzn2QkE",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"https://wanglt0617.github.io/_next/static/css/bdc3f856dda70850.css","precedence":"next"}]],"$L4"]]]]
+1:HL["./_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["./_next/static/css/bdc3f856dda70850.css",{"as":"style"}]
+0:["y6oeF1fcHtYsOhIzn2QkE",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/bdc3f856dda70850.css","precedence":"next"}]],"$L4"]]]]
 5:I{"id":7767,"chunks":["272:static/chunks/webpack-72e7a837c3f19233.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
 6:I{"id":7920,"chunks":["272:static/chunks/webpack-72e7a837c3f19233.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
 8:I{"id":3222,"chunks":["222:static/chunks/222-875d311453b1811a.js","931:static/chunks/app/page-34247342394af68f.js"],"name":"Image","async":false}
